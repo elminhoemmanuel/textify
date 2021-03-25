@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App container">
       <h1 className='py-5 text-center'>Textify <i class="far fa-clipboard"></i></h1>
-      <p className='py-3 text-center'>Generate placeholder text easily</p>
+      <p className='pb-4 text-center'>Generate placeholder text easily</p>
       <form className='form-inline mb-4'>
         <div className="form-gourp mr-5">
           <label >Add HTML tags?</label>
